@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Arohi-Birthday/static/css/main.5a1fb38d.css",
+    "main.js": "/Arohi-Birthday/static/js/main.28010bd3.js",
+    "static/media/arohi6.jpeg": "/Arohi-Birthday/static/media/arohi6.20599f3cd6dad8d3b942.jpeg",
+    "static/media/happybirthday.mpeg": "/Arohi-Birthday/static/media/happybirthday.0e68f7f27b0d9f025c73.mpeg",
+    "static/media/arohi5.jpeg": "/Arohi-Birthday/static/media/arohi5.87a7413f01147ba6d7ab.jpeg",
+    "static/media/arohi4.jpeg": "/Arohi-Birthday/static/media/arohi4.f32e789f0bddcad3f0e8.jpeg",
+    "static/media/arohi2.jpeg": "/Arohi-Birthday/static/media/arohi2.408d768138e79794c847.jpeg",
+    "index.html": "/Arohi-Birthday/index.html",
+    "main.5a1fb38d.css.map": "/Arohi-Birthday/static/css/main.5a1fb38d.css.map",
+    "main.28010bd3.js.map": "/Arohi-Birthday/static/js/main.28010bd3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5a1fb38d.css",
+    "static/js/main.28010bd3.js"
+  ]
+}
